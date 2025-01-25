@@ -7,5 +7,6 @@ USAGE:
 
 The output will be in your command line (you can also change it with opening a new file and changing the fd to write the result)
 Despites, you can change the names of files, such as key.txt and shuffled.txt only giving the new names in .h files of shuffle and unshuffle programs
+
 IT'S IMPORTANT:
-- to give the names ".txt" at the end
+- to give the names ".txt" at the end of the names of files
