@@ -1,0 +1,8 @@
+This is a programm, that can shuffle and unshuffle the only ASCII charctars in random way.
+
+USAGE:
+1) make
+2) ./shuffle "The text you want to shuffle"
+2) ./unshuffle
+
+The output will be in your command line (you can also change it with opening a new file and changing the fd to write the result)
